@@ -632,4 +632,5 @@ Check the [Basic Configuration readme](BASIC-README.md)
 # Fix for M1 node-pre-gyp error:
 
 brew install pkg-config cairo pango libpng jpeg giflib librsvg pixman
+  <br/>
 npm install canvas
